@@ -74,4 +74,6 @@
 	<Item Name="To JSON Text.vi" Type="VI" URL="../To JSON Text.vi"/>
 	<Item Name="UTF8 String to JSON.vi" Type="VI" URL="../UTF8 String to JSON.vi"/>
 	<Item Name="JSON to UTF8 String.vi" Type="VI" URL="../JSON to UTF8 String.vi"/>
+	<Item Name="Read Control Refnum Values and Set Object Items.vi" Type="VI" URL="../Read Control Refnum Values and Set Object Items.vi"/>
+	<Item Name="Write Control Refnum Values from Object Items.vi" Type="VI" URL="../Write Control Refnum Values from Object Items.vi"/>
 </Library>
