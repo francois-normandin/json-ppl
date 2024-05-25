@@ -27,8 +27,8 @@
 		<Item Name="Write Section Cluster.vi" Type="VI" URL="../Write Section Cluster.vi"/>
 	</Item>
 	<Item Name="Variant API" Type="Folder">
-		<Item Name="JSON text to Variant (path).vi" Type="VI" URL="../JSON text to Variant (path).vi"/>
 		<Item Name="JSON text to Variant (Void).vi" Type="VI" URL="../JSON text to Variant (Void).vi"/>
+		<Item Name="JSON text to Variant (path).vi" Type="VI" URL="../JSON text to Variant (path).vi"/>
 		<Item Name="JSON text to Variant.vi" Type="VI" URL="../JSON text to Variant.vi"/>
 		<Item Name="Variant to JSON Text.vi" Type="VI" URL="../Variant to JSON Text.vi"/>
 	</Item>
@@ -38,7 +38,15 @@
 	<Item Name="JSON Schema" Type="Folder">
 		<Item Name="Validate Against JSON Schema.vi" Type="VI" URL="../Validate Against JSON Schema.vi"/>
 	</Item>
-	<Item Name="Control References" Type="Folder"/>
+	<Item Name="Control References" Type="Folder">
+		<Item Name="Read Control Refnum Values and Set Object Items.vi" Type="VI" URL="../Read Control Refnum Values and Set Object Items.vi"/>
+		<Item Name="Write Control Refnum Values from Object Items.vi" Type="VI" URL="../Write Control Refnum Values from Object Items.vi"/>
+	</Item>
+	<Item Name="Support" Type="Folder">
+		<Item Name="Variant.BuildArrayFromElementArray.vi" Type="VI" URL="../Variant.BuildArrayFromElementArray.vi"/>
+		<Item Name="Variant.BuildClusterFromElementArray.vi" Type="VI" URL="../Variant.BuildClusterFromElementArray.vi"/>
+		<Item Name="Variant.SetName.vi" Type="VI" URL="../Variant.SetName.vi"/>
+	</Item>
 	<Item Name="Array of Variants to JSON Array.vi" Type="VI" URL="../Array of Variants to JSON Array.vi"/>
 	<Item Name="Array of Variants to JSON Object.vi" Type="VI" URL="../Array of Variants to JSON Object.vi"/>
 	<Item Name="Colour Items of a JSON string control.vi" Type="VI" URL="../Colour Items of a JSON string control.vi"/>
@@ -74,6 +82,4 @@
 	<Item Name="To JSON Text.vi" Type="VI" URL="../To JSON Text.vi"/>
 	<Item Name="UTF8 String to JSON.vi" Type="VI" URL="../UTF8 String to JSON.vi"/>
 	<Item Name="JSON to UTF8 String.vi" Type="VI" URL="../JSON to UTF8 String.vi"/>
-	<Item Name="Read Control Refnum Values and Set Object Items.vi" Type="VI" URL="../Read Control Refnum Values and Set Object Items.vi"/>
-	<Item Name="Write Control Refnum Values from Object Items.vi" Type="VI" URL="../Write Control Refnum Values from Object Items.vi"/>
 </Library>
