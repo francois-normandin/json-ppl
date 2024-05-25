@@ -51,7 +51,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/ppl</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{8DFABDC7-3D5F-443C-8602-33604B442F35}</Property>
-				<Property Name="Bld_version.build" Type="Int">16</Property>
+				<Property Name="Bld_version.build" Type="Int">18</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">json.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/ppl/json.lvlibp</Property>

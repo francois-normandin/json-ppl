@@ -80,4 +80,5 @@
 	<Item Name="Set Multiple Object Items.vi" Type="VI" URL="../Set Multiple Object Items.vi"/>
 	<Item Name="To JSON Text.vi" Type="VI" URL="../To JSON Text.vi"/>
 	<Item Name="Validate Against JSON Schema.vi" Type="VI" URL="../Validate Against JSON Schema.vi"/>
+	<Item Name="Read Licenses.vi" Type="VI" URL="../Read Licenses.vi"/>
 </Library>
