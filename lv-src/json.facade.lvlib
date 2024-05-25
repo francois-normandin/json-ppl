@@ -72,4 +72,6 @@
 	<Item Name="Set Multiple Object Items.vi" Type="VI" URL="../Set Multiple Object Items.vi"/>
 	<Item Name="Strip UTF8 Byte Order Mark (if present).vi" Type="VI" URL="../Strip UTF8 Byte Order Mark (if present).vi"/>
 	<Item Name="To JSON Text.vi" Type="VI" URL="../To JSON Text.vi"/>
+	<Item Name="UTF8 String to JSON.vi" Type="VI" URL="../UTF8 String to JSON.vi"/>
+	<Item Name="JSON to UTF8 String.vi" Type="VI" URL="../JSON to UTF8 String.vi"/>
 </Library>
