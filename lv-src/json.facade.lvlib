@@ -32,12 +32,7 @@
 		<Item Name="JSON text to Variant.vi" Type="VI" URL="../JSON text to Variant.vi"/>
 		<Item Name="Variant to JSON Text.vi" Type="VI" URL="../Variant to JSON Text.vi"/>
 	</Item>
-	<Item Name="YAML-like" Type="Folder">
-		<Item Name="Display Text from JSON.vi" Type="VI" URL="../Display Text from JSON.vi"/>
-	</Item>
-	<Item Name="JSON Schema" Type="Folder">
-		<Item Name="Validate Against JSON Schema.vi" Type="VI" URL="../Validate Against JSON Schema.vi"/>
-	</Item>
+	<Item Name="JSON Schema" Type="Folder"/>
 	<Item Name="Control References" Type="Folder">
 		<Item Name="Read Control Refnum Values and Set Object Items.vi" Type="VI" URL="../Read Control Refnum Values and Set Object Items.vi"/>
 		<Item Name="Write Control Refnum Values from Object Items.vi" Type="VI" URL="../Write Control Refnum Values from Object Items.vi"/>
@@ -46,24 +41,29 @@
 		<Item Name="Variant.BuildArrayFromElementArray.vi" Type="VI" URL="../Variant.BuildArrayFromElementArray.vi"/>
 		<Item Name="Variant.BuildClusterFromElementArray.vi" Type="VI" URL="../Variant.BuildClusterFromElementArray.vi"/>
 		<Item Name="Variant.SetName.vi" Type="VI" URL="../Variant.SetName.vi"/>
+		<Item Name="Strip UTF8 Byte Order Mark (if present).vi" Type="VI" URL="../Strip UTF8 Byte Order Mark (if present).vi"/>
+		<Item Name="UTF8 String to JSON.vi" Type="VI" URL="../UTF8 String to JSON.vi"/>
+		<Item Name="JSON to UTF8 String.vi" Type="VI" URL="../JSON to UTF8 String.vi"/>
 	</Item>
 	<Item Name="Array of Variants to JSON Array.vi" Type="VI" URL="../Array of Variants to JSON Array.vi"/>
 	<Item Name="Array of Variants to JSON Object.vi" Type="VI" URL="../Array of Variants to JSON Object.vi"/>
 	<Item Name="Colour Items of a JSON string control.vi" Type="VI" URL="../Colour Items of a JSON string control.vi"/>
 	<Item Name="Delete.vi" Type="VI" URL="../Delete.vi"/>
 	<Item Name="Difference.vi" Type="VI" URL="../Difference.vi"/>
+	<Item Name="Display Text from JSON.vi" Type="VI" URL="../Display Text from JSON.vi"/>
 	<Item Name="Find Item.vi" Type="VI" URL="../Find Item.vi"/>
 	<Item Name="Find Multiple Items.vi" Type="VI" URL="../Find Multiple Items.vi"/>
 	<Item Name="Find Object Items by Name.vi" Type="VI" URL="../Find Object Items by Name.vi"/>
+	<Item Name="From JSON Text (Poly).vi" Type="VI" URL="../From JSON Text (Poly).vi"/>
+	<Item Name="From JSON Text.vi" Type="VI" URL="../From JSON Text.vi"/>
 	<Item Name="From JSON Text (Boolean).vi" Type="VI" URL="../From JSON Text (Boolean).vi"/>
 	<Item Name="From JSON Text (DBL).vi" Type="VI" URL="../From JSON Text (DBL).vi"/>
 	<Item Name="From JSON Text (Path).vi" Type="VI" URL="../From JSON Text (Path).vi"/>
-	<Item Name="From JSON Text (Poly).vi" Type="VI" URL="../From JSON Text (Poly).vi"/>
 	<Item Name="From JSON Text (String).vi" Type="VI" URL="../From JSON Text (String).vi"/>
 	<Item Name="From JSON Text (U8).vi" Type="VI" URL="../From JSON Text (U8).vi"/>
 	<Item Name="From JSON Text (U16).vi" Type="VI" URL="../From JSON Text (U16).vi"/>
 	<Item Name="From JSON Text (U32).vi" Type="VI" URL="../From JSON Text (U32).vi"/>
-	<Item Name="From JSON Text.vi" Type="VI" URL="../From JSON Text.vi"/>
+	<Item Name="From JSON Text (I32).vi" Type="VI" URL="../From JSON Text (I32).vi"/>
 	<Item Name="Get all Object Items.vi" Type="VI" URL="../Get all Object Items.vi"/>
 	<Item Name="Get Array Elements.vi" Type="VI" URL="../Get Array Elements.vi"/>
 	<Item Name="is Empty.vi" Type="VI" URL="../is Empty.vi"/>
@@ -78,8 +78,6 @@
 	<Item Name="Reformat.vi" Type="VI" URL="../Reformat.vi"/>
 	<Item Name="Set Item.vi" Type="VI" URL="../Set Item.vi"/>
 	<Item Name="Set Multiple Object Items.vi" Type="VI" URL="../Set Multiple Object Items.vi"/>
-	<Item Name="Strip UTF8 Byte Order Mark (if present).vi" Type="VI" URL="../Strip UTF8 Byte Order Mark (if present).vi"/>
 	<Item Name="To JSON Text.vi" Type="VI" URL="../To JSON Text.vi"/>
-	<Item Name="UTF8 String to JSON.vi" Type="VI" URL="../UTF8 String to JSON.vi"/>
-	<Item Name="JSON to UTF8 String.vi" Type="VI" URL="../JSON to UTF8 String.vi"/>
+	<Item Name="Validate Against JSON Schema.vi" Type="VI" URL="../Validate Against JSON Schema.vi"/>
 </Library>

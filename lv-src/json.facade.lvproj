@@ -41,20 +41,20 @@
 			<Item Name="JSONtext.lvlib" Type="Library" URL="../jsontext/JSONtext.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
-			<Item Name="std.json" Type="Packed Library">
+			<Item Name="json" Type="Packed Library">
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{B87F6AAC-3E4E-475A-BFFE-9D36979C0631}</Property>
-				<Property Name="Bld_buildSpecName" Type="Str">std.json</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">json</Property>
 				<Property Name="Bld_excludeDependentDLLs" Type="Bool">true</Property>
 				<Property Name="Bld_excludeDependentPPLs" Type="Bool">true</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_localDestDir" Type="Path">/C/ppl</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{8DFABDC7-3D5F-443C-8602-33604B442F35}</Property>
-				<Property Name="Bld_version.build" Type="Int">13</Property>
+				<Property Name="Bld_version.build" Type="Int">16</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
-				<Property Name="Destination[0].destName" Type="Str">std.json.lvlibp</Property>
-				<Property Name="Destination[0].path" Type="Path">/C/ppl/std.json.lvlibp</Property>
+				<Property Name="Destination[0].destName" Type="Str">json.lvlibp</Property>
+				<Property Name="Destination[0].path" Type="Path">/C/ppl/json.lvlibp</Property>
 				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
@@ -63,7 +63,7 @@
 				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{CEA375BD-0462-4CB1-B78F-319A6E16F63E}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{654E05CA-EF25-4428-A660-0293B80095B6}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/json.facade.lvlib</Property>
@@ -74,11 +74,11 @@
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">Library</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>
-				<Property Name="TgtF_fileDescription" Type="Str">std.json</Property>
-				<Property Name="TgtF_internalName" Type="Str">std.json</Property>
-				<Property Name="TgtF_productName" Type="Str">std.json</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">json</Property>
+				<Property Name="TgtF_internalName" Type="Str">json</Property>
+				<Property Name="TgtF_productName" Type="Str">json</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{ABCE6204-A545-4804-B56D-0F96F01A25D3}</Property>
-				<Property Name="TgtF_targetfileName" Type="Str">std.json.lvlibp</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">json.lvlibp</Property>
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
 		</Item>
