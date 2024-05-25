@@ -21,16 +21,16 @@
 		<Item Name="String Subset.vi" Type="VI" URL="../String Subset.vi"/>
 	</Item>
 	<Item Name="Section Cluster" Type="Folder">
-		<Item Name="Write Section Cluster.vi" Type="VI" URL="../Write Section Cluster.vi"/>
-		<Item Name="Write Multiple Sections.vi" Type="VI" URL="../Write Multiple Sections.vi"/>
-		<Item Name="Read Section Cluster.vi" Type="VI" URL="../Read Section Cluster.vi"/>
 		<Item Name="Read Multiple Sections.vi" Type="VI" URL="../Read Multiple Sections.vi"/>
+		<Item Name="Read Section Cluster.vi" Type="VI" URL="../Read Section Cluster.vi"/>
+		<Item Name="Write Multiple Sections.vi" Type="VI" URL="../Write Multiple Sections.vi"/>
+		<Item Name="Write Section Cluster.vi" Type="VI" URL="../Write Section Cluster.vi"/>
 	</Item>
 	<Item Name="Variant API" Type="Folder">
 		<Item Name="JSON text to Variant (path).vi" Type="VI" URL="../JSON text to Variant (path).vi"/>
-		<Item Name="Variant to JSON Text.vi" Type="VI" URL="../Variant to JSON Text.vi"/>
-		<Item Name="JSON text to Variant.vi" Type="VI" URL="../JSON text to Variant.vi"/>
 		<Item Name="JSON text to Variant (Void).vi" Type="VI" URL="../JSON text to Variant (Void).vi"/>
+		<Item Name="JSON text to Variant.vi" Type="VI" URL="../JSON text to Variant.vi"/>
+		<Item Name="Variant to JSON Text.vi" Type="VI" URL="../Variant to JSON Text.vi"/>
 	</Item>
 	<Item Name="YAML-like" Type="Folder">
 		<Item Name="Display Text from JSON.vi" Type="VI" URL="../Display Text from JSON.vi"/>
@@ -47,6 +47,15 @@
 	<Item Name="Find Item.vi" Type="VI" URL="../Find Item.vi"/>
 	<Item Name="Find Multiple Items.vi" Type="VI" URL="../Find Multiple Items.vi"/>
 	<Item Name="Find Object Items by Name.vi" Type="VI" URL="../Find Object Items by Name.vi"/>
+	<Item Name="From JSON Text (Boolean).vi" Type="VI" URL="../From JSON Text (Boolean).vi"/>
+	<Item Name="From JSON Text (DBL).vi" Type="VI" URL="../From JSON Text (DBL).vi"/>
+	<Item Name="From JSON Text (Path).vi" Type="VI" URL="../From JSON Text (Path).vi"/>
+	<Item Name="From JSON Text (Poly).vi" Type="VI" URL="../From JSON Text (Poly).vi"/>
+	<Item Name="From JSON Text (String).vi" Type="VI" URL="../From JSON Text (String).vi"/>
+	<Item Name="From JSON Text (U8).vi" Type="VI" URL="../From JSON Text (U8).vi"/>
+	<Item Name="From JSON Text (U16).vi" Type="VI" URL="../From JSON Text (U16).vi"/>
+	<Item Name="From JSON Text (U32).vi" Type="VI" URL="../From JSON Text (U32).vi"/>
+	<Item Name="From JSON Text.vi" Type="VI" URL="../From JSON Text.vi"/>
 	<Item Name="Get all Object Items.vi" Type="VI" URL="../Get all Object Items.vi"/>
 	<Item Name="Get Array Elements.vi" Type="VI" URL="../Get Array Elements.vi"/>
 	<Item Name="is Empty.vi" Type="VI" URL="../is Empty.vi"/>
@@ -62,14 +71,5 @@
 	<Item Name="Set Item.vi" Type="VI" URL="../Set Item.vi"/>
 	<Item Name="Set Multiple Object Items.vi" Type="VI" URL="../Set Multiple Object Items.vi"/>
 	<Item Name="Strip UTF8 Byte Order Mark (if present).vi" Type="VI" URL="../Strip UTF8 Byte Order Mark (if present).vi"/>
-	<Item Name="From JSON Text.vi" Type="VI" URL="../From JSON Text.vi"/>
-	<Item Name="From JSON Text (Poly).vi" Type="VI" URL="../From JSON Text (Poly).vi"/>
-	<Item Name="From JSON Text (Boolean).vi" Type="VI" URL="../From JSON Text (Boolean).vi"/>
-	<Item Name="From JSON Text (String).vi" Type="VI" URL="../From JSON Text (String).vi"/>
-	<Item Name="From JSON Text (Path).vi" Type="VI" URL="../From JSON Text (Path).vi"/>
-	<Item Name="From JSON Text (DBL).vi" Type="VI" URL="../From JSON Text (DBL).vi"/>
-	<Item Name="From JSON Text (U8).vi" Type="VI" URL="../From JSON Text (U8).vi"/>
-	<Item Name="From JSON Text (U16).vi" Type="VI" URL="../From JSON Text (U16).vi"/>
-	<Item Name="From JSON Text (U32).vi" Type="VI" URL="../From JSON Text (U32).vi"/>
 	<Item Name="To JSON Text.vi" Type="VI" URL="../To JSON Text.vi"/>
 </Library>
