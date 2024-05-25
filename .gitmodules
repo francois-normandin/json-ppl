@@ -1,0 +1,4 @@
+[submodule "lv-src/jsontext"]
+	path = lv-src/jsontext
+	url = https://bitbucket.org/drjdpowell/jsontext.git
+	branch = master

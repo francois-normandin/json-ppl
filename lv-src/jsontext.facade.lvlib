@@ -35,6 +35,8 @@
 	<Item Name="YAML-like" Type="Folder">
 		<Item Name="Display Text from JSON.vi" Type="VI" URL="../Display Text from JSON.vi"/>
 	</Item>
+	<Item Name="JSON Schema" Type="Folder"/>
+	<Item Name="Control References" Type="Folder"/>
 	<Item Name="Array of Variants to JSON Array.vi" Type="VI" URL="../Array of Variants to JSON Array.vi"/>
 	<Item Name="Array of Variants to JSON Object.vi" Type="VI" URL="../Array of Variants to JSON Object.vi"/>
 	<Item Name="Colour Items of a JSON string control.vi" Type="VI" URL="../Colour Items of a JSON string control.vi"/>
