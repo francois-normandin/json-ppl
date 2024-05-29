@@ -32,7 +32,6 @@
 		<Item Name="JSON text to Variant.vi" Type="VI" URL="../JSON text to Variant.vi"/>
 		<Item Name="Variant to JSON Text.vi" Type="VI" URL="../Variant to JSON Text.vi"/>
 	</Item>
-	<Item Name="JSON Schema" Type="Folder"/>
 	<Item Name="Control References" Type="Folder">
 		<Item Name="Read Control Refnum Values and Set Object Items.vi" Type="VI" URL="../Read Control Refnum Values and Set Object Items.vi"/>
 		<Item Name="Write Control Refnum Values from Object Items.vi" Type="VI" URL="../Write Control Refnum Values from Object Items.vi"/>
@@ -77,6 +76,15 @@
 	<Item Name="Pretty Print.vi" Type="VI" URL="../Pretty Print.vi"/>
 	<Item Name="Reformat.vi" Type="VI" URL="../Reformat.vi"/>
 	<Item Name="Set Item.vi" Type="VI" URL="../Set Item.vi"/>
+	<Item Name="Set Item (Poly).vi" Type="VI" URL="../Set Item (Poly).vi"/>
+	<Item Name="Set Item (String).vi" Type="VI" URL="../Set Item (String).vi"/>
+	<Item Name="Set Item (Path).vi" Type="VI" URL="../Set Item (Path).vi"/>
+	<Item Name="Set Item (Boolean).vi" Type="VI" URL="../Set Item (Boolean).vi"/>
+	<Item Name="Set Item (U8).vi" Type="VI" URL="../Set Item (U8).vi"/>
+	<Item Name="Set Item (U16).vi" Type="VI" URL="../Set Item (U16).vi"/>
+	<Item Name="Set Item (U32).vi" Type="VI" URL="../Set Item (U32).vi"/>
+	<Item Name="Set Item (I32).vi" Type="VI" URL="../Set Item (I32).vi"/>
+	<Item Name="Set Item (DBL).vi" Type="VI" URL="../Set Item (DBL).vi"/>
 	<Item Name="Set Multiple Object Items.vi" Type="VI" URL="../Set Multiple Object Items.vi"/>
 	<Item Name="To JSON Text.vi" Type="VI" URL="../To JSON Text.vi"/>
 	<Item Name="Validate Against JSON Schema.vi" Type="VI" URL="../Validate Against JSON Schema.vi"/>
